@@ -21,5 +21,8 @@
   },
   "volta": {
     "node": "18.16.1"
+  },
+  "devDependencies": {
+    "eslint-config-prettier": "^8.8.0"
   }
 }
