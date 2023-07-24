@@ -23,6 +23,8 @@
     "node": "18.16.1"
   },
   "devDependencies": {
-    "eslint-config-prettier": "^8.8.0"
+    "eslint-config-prettier": "^8.8.0",
+    "stylelint": "15.10.2",
+    "stylelint-config-standard": "34.0.0"
   }
 }
